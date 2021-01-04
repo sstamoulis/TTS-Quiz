@@ -1,0 +1,4 @@
+*.db
+*.ttf
+*.py
+.vscode
